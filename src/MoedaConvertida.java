@@ -1,0 +1,1 @@
+public record MoedaConvertida(double conversion_result) { }
